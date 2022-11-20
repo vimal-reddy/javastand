@@ -1,0 +1,2 @@
+# javastand
+java standalone
